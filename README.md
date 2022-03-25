@@ -13,7 +13,7 @@ To get a local copy up and running follow these simple example steps.
 
 Open git bash on local computer
 clone the repo with:
-git clone  <https://github.com/ekenecf/basic-todo/pull/1>
+git clone  <https://github.com/ekenecf/ekene.todoapp.github.io.git>
 
 ## Prerequisites
 Understand HTML/CSS and JavaScript 
@@ -23,6 +23,9 @@ Understand HTML/CSS and JavaScript
 - A browser
 - Node.js (to run javascript files locally)
 - LiveServer (to load javascript modules)
+
+## Live link demo:
+[Link-demo](ekene.todoapp.github.io)
 
  **Author1**
 
