@@ -13,7 +13,7 @@ To get a local copy up and running follow these simple example steps.
 
 Open git bash on local computer
 clone the repo with:
-git clone  <https://github.com/ekenecf/basic-todo/pull/1>
+git clone  <https://github.com/ekenecf/ekene.todoapp.github.io.git>
 
 ## Prerequisites
 Understand HTML/CSS and JavaScript 
