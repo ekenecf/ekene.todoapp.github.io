@@ -24,6 +24,9 @@ Understand HTML/CSS and JavaScript
 - Node.js (to run javascript files locally)
 - LiveServer (to load javascript modules)
 
+## Live link demo:
+[Link-demo](ekene.todoapp.github.io)
+
  **Author1**
 
 - [@githubhandle](https://github.com/ekenecf)
