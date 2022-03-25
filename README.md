@@ -25,7 +25,7 @@ Understand HTML/CSS and JavaScript
 - LiveServer (to load javascript modules)
 
 ## Live link demo:
-[Link-demo](ekene.todoapp.github.io)
+[Link-demo](https://ekenecf.github.io/ekene.todoapp.github.io/)
 
  **Author1**
 
